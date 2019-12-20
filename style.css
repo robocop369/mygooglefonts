@@ -1,5 +1,26 @@
-/**
- * Google Fonts Demo
- **/
+p {
+    font-family: "Times New Roman", Times, serif;
+  }
 
-/* Add in the Google Fonts of your choice */
+
+  h1     { font size: 30px;
+
+  }
+
+  h3 {
+    line-height: 30;
+  }
+  h3 {
+    font-family: 'Ma Shan Zheng', cursive;
+  }
+  h4 {
+      font font-weight: 300;
+  }
+
+ .thought2 {
+     font size: 240px;
+ }
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
